@@ -1,0 +1,10 @@
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\divide_venceras\EjercicioPracticoGabrielGomez\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe.config
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\divide_venceras\EjercicioPracticoGabrielGomez\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\divide_venceras\EjercicioPracticoGabrielGomez\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\divide_venceras\EjercicioPracticoGabrielGomez\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.AssemblyReference.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\divide_venceras\EjercicioPracticoGabrielGomez\BusquedaBinaria\obj\Debug\BusquedaBinaria.Form1.resources
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\divide_venceras\EjercicioPracticoGabrielGomez\BusquedaBinaria\obj\Debug\BusquedaBinaria.Properties.Resources.resources
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\divide_venceras\EjercicioPracticoGabrielGomez\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.GenerateResource.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\divide_venceras\EjercicioPracticoGabrielGomez\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\divide_venceras\EjercicioPracticoGabrielGomez\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\divide_venceras\EjercicioPracticoGabrielGomez\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
