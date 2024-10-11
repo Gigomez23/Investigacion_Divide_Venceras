@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideVenceras", "DivideVenceras.csproj", "{D4DD26CA-EF4D-4648-A8B2-B59FD06418D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio", "Ejercicio.csproj", "{9CB9009F-8C27-4032-8624-6CA39C36B4BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D4DD26CA-EF4D-4648-A8B2-B59FD06418D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4DD26CA-EF4D-4648-A8B2-B59FD06418D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4DD26CA-EF4D-4648-A8B2-B59FD06418D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4DD26CA-EF4D-4648-A8B2-B59FD06418D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB9009F-8C27-4032-8624-6CA39C36B4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB9009F-8C27-4032-8624-6CA39C36B4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB9009F-8C27-4032-8624-6CA39C36B4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB9009F-8C27-4032-8624-6CA39C36B4BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {609A164C-C4B0-42EE-985B-E9E6A634061F}
+		SolutionGuid = {7B2571E8-3E0A-432F-9CC6-826B2444C259}
 	EndGlobalSection
 EndGlobal
